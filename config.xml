@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "2.7.0">
-    <name>Scanner Demo</name>
+        version   = "3.0.1">
+    <name>Scanner Demo KBC</name>
 
     <description>
         Scans barcodes.
